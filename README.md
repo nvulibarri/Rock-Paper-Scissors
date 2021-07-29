@@ -1,2 +1,1 @@
-# Tick-Tack-Toe
- tick-tack-toe with python
+# Rock-Paper-Scissors with Python
